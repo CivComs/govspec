@@ -15,6 +15,9 @@ If you know of a spec, schema or other representation that can inform the discus
 
 Join the Google Group http://groups.google.com/group/govspec and add to the discussion.  Make sure you announce/introduce yourself. Membership is open.
 
+**Add a Resource**
+
+Add a resource link to the wiki at https://github.com/CivComs/govspec/wiki/Helpful-Resources
 
 Status
 -------
